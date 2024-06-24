@@ -426,18 +426,6 @@
 142.202.189.215
 103.186.117.105
 79.141.173.210/32
-Raport ne lidhje me bllokimin e IOC  “Underground Ransomware”.
-
-Nga ana jone u vendos IP 79.141.173.210 ne Threat-Feed IOC Block.
-
-Per sa i perket HASH-eve, ato jane te njohura nga FortiGuard.
-Te dhenat per keto HASH-e drejtojne tek i njejti Ransomware me te dhenat e meposhtme:
- 
-Edhe pse keto Hashe gjenden ne databazen e FortiGuard gjithesesi u shtuan tek threatfeed Malware Hash.
-
-Gjithashtu edhe url prezente ne dokumentin shoqerues te kesaj bilete u bllokuan me sukses duke u futur tek threatfeed per URL- Block 
-
-
 88.218.76.13/32
 147.45.51.126/32
 172.86.104.113/32
